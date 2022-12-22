@@ -1111,6 +1111,7 @@ section h5{display: none;}
 }
 
 .tech .tech_txt p {
+    word-break: keep-all;
     padding: 40px 0;
     
 }
